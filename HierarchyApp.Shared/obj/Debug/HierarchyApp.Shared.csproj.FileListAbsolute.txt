@@ -1,0 +1,6 @@
+C:\Users\javier.brenes\source\repos\HierarchyApp\HierarchyApp.Shared\bin\Debug\HierarchyApp.Shared.dll
+C:\Users\javier.brenes\source\repos\HierarchyApp\HierarchyApp.Shared\bin\Debug\HierarchyApp.Shared.pdb
+C:\Users\javier.brenes\source\repos\HierarchyApp\HierarchyApp.Shared\obj\Debug\HierarchyApp.Shared.csprojAssemblyReference.cache
+C:\Users\javier.brenes\source\repos\HierarchyApp\HierarchyApp.Shared\obj\Debug\HierarchyApp.Shared.csproj.CoreCompileInputs.cache
+C:\Users\javier.brenes\source\repos\HierarchyApp\HierarchyApp.Shared\obj\Debug\HierarchyApp.Shared.dll
+C:\Users\javier.brenes\source\repos\HierarchyApp\HierarchyApp.Shared\obj\Debug\HierarchyApp.Shared.pdb

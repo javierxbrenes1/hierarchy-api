@@ -1,0 +1,9 @@
+C:\Users\javier.brenes\source\repos\HierarchyApp\HierarchyApp.DataAccess\bin\Debug\HierarchyApp.DataAccess.dll
+C:\Users\javier.brenes\source\repos\HierarchyApp\HierarchyApp.DataAccess\bin\Debug\HierarchyApp.DataAccess.pdb
+C:\Users\javier.brenes\source\repos\HierarchyApp\HierarchyApp.DataAccess\bin\Debug\Dapper.dll
+C:\Users\javier.brenes\source\repos\HierarchyApp\HierarchyApp.DataAccess\bin\Debug\Dapper.xml
+C:\Users\javier.brenes\source\repos\HierarchyApp\HierarchyApp.DataAccess\obj\Debug\HierarchyApp.DataAccess.csprojAssemblyReference.cache
+C:\Users\javier.brenes\source\repos\HierarchyApp\HierarchyApp.DataAccess\obj\Debug\HierarchyApp.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\javier.brenes\source\repos\HierarchyApp\HierarchyApp.DataAccess\obj\Debug\HierarchyApp.DataAccess.csproj.CopyComplete
+C:\Users\javier.brenes\source\repos\HierarchyApp\HierarchyApp.DataAccess\obj\Debug\HierarchyApp.DataAccess.dll
+C:\Users\javier.brenes\source\repos\HierarchyApp\HierarchyApp.DataAccess\obj\Debug\HierarchyApp.DataAccess.pdb
